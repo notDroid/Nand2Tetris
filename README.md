@@ -12,4 +12,3 @@ All tools used are avaliable at [Nand2Tetris Web IDE](https://nand2tetris.github
 * project 7 & 8: **VM Translator** -> Started Two-Tier compilation process by building Virtual Machine Translator of a Jave-like, stack-based Bytecode into Hack Assembly Language
 * project 9: **Jack Language** -> Created a personal finance command line program in Jack, a Java-like langauge used for this course
 * project 10 & 11: **Compiler** -> Finished two-tier compilation process by implementing compiler for translation of high-level Jack language into VM langauge, akin to Java bytecode
-* project 12: **Operating System** -> Wrote Operating System classes to "ship" with Hack / Jack platform to provide an interface for high-level Jack programmer to low-level resources, i.e, memory allocation
