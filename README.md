@@ -1,5 +1,5 @@
-# [Build a Computer from First Principles](https://www.coursera.org/learn/build-a-computer)
-![roadmap](./images/roadmap.png)
+# Build a Computer from First Principles
+![roadmap](![image](https://github.com/user-attachments/assets/28ae9000-ffd9-4886-8842-6d5219674d7f))
 
 ### Summary of Projects which built upon each other
 * project 1: **Logic Gates** -> Starting from an elementary [NAND](https://en.wikipedia.org/wiki/NAND_gate) logic gate, built an array of more complex logic gates, i.e., And, Or, Mux, Xor, etc.
