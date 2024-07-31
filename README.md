@@ -1,7 +1,8 @@
 # Build a Computer from First Principles
 ![roadmap](https://github.com/user-attachments/assets/28ae9000-ffd9-4886-8842-6d5219674d7f)
 
-### Summary of Projects which built upon each other
+All tools used are avaliable at [Nand2Tetris Web IDE](https://nand2tetris.github.io/web-ide/chip)
+### Summary of Projects
 * project 1: **Logic Gates** -> Starting from an elementary [NAND](https://en.wikipedia.org/wiki/NAND_gate) logic gate, built an array of more complex logic gates, i.e., And, Or, Mux, Xor, etc.
 * project 2: **ALU** -> Constructed an adder chip and ALU, which executes all the arithmetic and logical operations
 * project 3: **Registers & Program Counter** -> Used a D [Flip Flop circuit](https://en.wikipedia.org/wiki/Flip-flop_(electronics)), which enables storing state in a chip, to construct a series of registers and a [Program Counter](https://en.wikipedia.org/wiki/Program_counter)
